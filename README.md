@@ -1,5 +1,11 @@
 # README
 
+## Takeaways
+1. Practice setting up databases models and migrations using `rails generate`
+2. Creating associations between databases (including the use of `class_name` and `source`)
+3. Creating validations for database models to ensure the integrity of associations and the database
+4. More understanding of the Active Record system and CRUD
+
 ## Associations
 I included the following associations across the relational database:
 1. Users and individual posts they have created
